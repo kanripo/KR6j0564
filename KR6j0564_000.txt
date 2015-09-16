@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 如來方便善巧經
+#+DATE: 2015-08-30 20:34:55.279139
+#+PROPERTY: JUAN 0
